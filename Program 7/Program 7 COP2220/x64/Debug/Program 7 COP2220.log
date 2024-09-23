@@ -1,0 +1,4 @@
+﻿  small_prog7.c
+C:\Users\Jordan\Desktop\Desktop\School\Fall 2023\COP2220\Program 7\Program 7 COP2220\small_prog7.c(107,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jordan\Desktop\Desktop\School\Fall 2023\COP2220\Program 7\Program 7 COP2220\small_prog7.c(159,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Program 7 COP2220.vcxproj -> C:\Users\Jordan\Desktop\Desktop\School\Fall 2023\COP2220\Program 7\Program 7 COP2220\x64\Debug\Program 7 COP2220.exe
